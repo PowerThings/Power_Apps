@@ -30,7 +30,7 @@ Buscador de incidencias (en la entrada de texto moderna se usa `.Value`, no `.Te
 ```
 galIncidencias:
   Items:
-    Search('Incidencias de mantenimiento', txtBuscar.Value, Title)
+    Search('Incidencias de mantenimiento', txtBuscar.Text, Title)
 ```
 
 Mensaje cuando la búsqueda no encuentra nada:
