@@ -17,17 +17,6 @@ recEstado:
           RGBA(16, 124, 16, 1))
 ```
 
-Color de la insignia según el estado:
-
-```
-bdgEstado:
-  ThemeColor:
-    Switch(ThisItem.Estado.Value,
-          "Abierta", "Danger",
-          "En curso", "Warning",
-          "Success")
-```
-
 Fecha y prioridad en una sola línea:
 
 ```
