@@ -1,0 +1,13 @@
+colOscuro = RGBA(15, 23, 42, 1);
+colAzul = RGBA(0, 120, 212, 1);
+colVerde = RGBA(22, 163, 74, 1);
+colRojo = RGBA(220, 38, 38, 1);
+colVerdeTexto = RGBA(21, 128, 61, 1);
+colRojoTexto = RGBA(185, 28, 28, 1);
+colVerdeClaro = RGBA(220, 252, 231, 1);
+colRojoClaro = RGBA(254, 226, 226, 1);
+colAvisoFondo = RGBA(254, 242, 242, 1);
+colAvisoBorde = RGBA(252, 165, 165, 1);
+colGris = RGBA(100, 116, 139, 1);
+colFondo = RGBA(241, 245, 249, 1);
+colBlanco = RGBA(255, 255, 255, 1);
